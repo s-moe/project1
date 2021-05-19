@@ -4,7 +4,7 @@ Project title:
 
 # Win State:
 Get $100 in tips (amount to be determined).
-Or deliver all of the pizzas without getting fired
+Or deliver all of the pizzas without getting fired.
 
 # Lose State:
 Run out of gas or get fired for delivering the wrong pizza too many times (3 warnings gets you fired).
@@ -26,12 +26,12 @@ Run out of gas or get fired for delivering the wrong pizza too many times (3 war
 - Pizzas left to deliver: 
 
 # Basic premise: 
-- There will be an array of pizzas ordered
-- There will be an array of pizzas to be delivered
-- When the driver delivers a pizza it will randomly choose a pizza from the delivered array and see if it matches the pizza from the ordered array
+- There will be an array of pizzas ordered.
+- There will be an array of pizzas to be delivered.
+- When the driver delivers a pizza it will randomly choose a pizza from the delivered array and see if it matches the pizza from the ordered array.
 - If the pizzas match, the customer tips the driver by a random amount; if they don't match the driver gets a warning. 3 warnings and you are fired.
-- Delivering a pizza also removes that pizza from the delivered pizzas array
-- The fuel tank will reduce by a random amount
+- Delivering a pizza also removes that pizza from the delivered pizzas array.
+- The fuel tank will reduce by a random amount.
 - The fuel tank will increase by a certain amount and it will also reduce the tip amount by $10. If the driver doesn't have enough money to pay for fuel s/he has to keep delivering pizzas to try to get tipped so s/he can refuel. 
 - If the driver delivers all of the pizzas without getting fired or makes $100 in tips s/he wins.
 - If the driver runs out of fuel or gets 3 warnings s/he loses. 
