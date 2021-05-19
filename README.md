@@ -7,7 +7,7 @@ Get $100 in tips (amount to be determined)
 Or deliver all of the pizzas without getting fired
 
 Lose State:
-Lose: Run out of gas or get fired for delivering the wrong pizza too many times (3 warnings gets you fired).
+Run out of gas or get fired for delivering the wrong pizza too many times (3 warnings gets you fired).
 
 Classes(do I need them for this?): 
 - Driver/Car
