@@ -3,7 +3,7 @@ Project title:
 "Pizza Delivery" is a game/story hybrid that helps you learn the importance of keeping your tank full of gas and getting a customer's order correct.
 
 Win State:
-Get $100 in tips (amount to be determined)
+Get $100 in tips (amount to be determined).
 Or deliver all of the pizzas without getting fired
 
 Lose State:
