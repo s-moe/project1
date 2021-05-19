@@ -11,6 +11,7 @@ Lose: Run out of gas or get fired for delivering the wrong pizza too many times 
 Classes(do I need them for this?): 
 - Driver/Car
 - Customer - customer will tip the driver if they receive the correct pizza
+    
 
 Buttons: 
 - Drive (decreases amount of fuel by random number); 
